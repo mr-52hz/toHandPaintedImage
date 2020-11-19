@@ -9,3 +9,6 @@
 pip install pillow
 pip install numpy
 ```
+## 效果参考
+![jackM](./expImg/jackM.jpg)
+![jackM_handful](./expImg/jackM_handful.jpg)
